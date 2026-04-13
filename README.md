@@ -1,2 +1,2 @@
 # FileTransfer
-A WPF project to transform files and clipboards
+A WPF project to transmission files and clipboards
